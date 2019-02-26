@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "cytoscape": "^3.4.2",
+    "cytoscape-cola": "^2.3.0",
+    "cytoscape-dagre": "^2.2.2",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "2.1.5"
